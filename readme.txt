@@ -28,7 +28,7 @@ e.g.
 
 = Plugin Info =
 * Developed by [Tanvir](https://twitter.com/TanvirFocus) & [Theme Junkie](http://www.theme-junkie.com/)
-* Check out the [Github](https://github.com/TanvirAmi//) repo to contribute.
+* Check out the [Github](https://github.com/themejunkie/tj-blank-tab) repo to contribute.
 
 ==Changelog==
 
