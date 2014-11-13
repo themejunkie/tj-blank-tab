@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: TJ Blank Tab
-* Plugin URI: https:
+* Plugin URI: https: https://github.com/themejunkie/tj-blank-tab
 * Description: This plugin will add target="_blank" functionality, which open the link with a new window(Tab).
 * Version: 1.0
 * Author: Theme Junkie
