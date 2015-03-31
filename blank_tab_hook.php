@@ -32,7 +32,7 @@ class blank_tab{
 		add_filter('the_content', array($this, 'links_in_new_tab'));
 	}
 
-	//functionality method
+	//filtering
 	public function links_in_new_tab($x){
 		$link = str_replace('<a', '<a target="_blank"', $x);
 		return $link;
